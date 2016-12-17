@@ -1,0 +1,175 @@
+#hello {
+    width:300px;
+    height:180px;
+    display: inline-block;
+    padding-left: 10px;
+}
+#top h1{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 360px;
+    padding-top: 80px;
+}
+#top{
+    background:linear-gradient(#dce6f7,white, #dce6f7);
+    width:1320px;
+}
+#links{
+    border: 1px solid black;
+    background:linear-gradient(#dce6f7,white, #dce6f7);
+}
+.home{
+    display: inline-block;
+    border-right: 1px solid black;
+    padding-right: 57px;
+    padding-left: 57px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+}
+#purple{
+    background: -moz-radial-gradient(#dac2e8, #b49cc1, black);
+    width:1320px;
+    height:1110px;
+}
+#database{
+    display: inline-block;
+    width:700px;
+    height:400px;
+    border: 10px solid #d2cfd3;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+#what{
+display: inline-block;
+width:500px;
+height:420px;
+background:linear-gradient(to right,#dee7e8, #d2cfd3 );
+vertical-align: top;
+margin-top: 25px;
+}
+#what p{
+    padding: 10px;
+}
+#what h4{
+    padding-left: 10px;
+}
+.heading{
+    background:linear-gradient(#d2cfd3,#3b343f, #d2cfd3);
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+    height:35px;
+}
+#little{
+    margin-bottom: 10px;
+}
+#small{
+    height:20px;
+    width:20px;
+    display: inline-block;
+    margin-left: 1100px;
+    vertical-align: top;
+}
+#littlewords{
+    display: inline-block;
+    color:#575475;
+    font-size: 15px;
+    vertical-align: top;
+}
+#storagepic{
+    width:300px;
+    height:200px;
+}
+#storage{
+width:300px;
+height:600px;
+display: inline-block;
+background:linear-gradient(to right,#dee7e8, #d2cfd3 );
+vertical-align: top;
+margin-left: 25px;
+}
+#storage p{
+    padding-left:15px;
+    padding-right:15px;
+}
+#searchingpic{
+    width:300px;
+    height:200px;
+}
+#searching{
+width:300px;
+height:600px;
+display: inline-block;
+background:linear-gradient(to right,#dee7e8, #d2cfd3 );
+vertical-align: top;
+margin-left: 15px;
+}
+#searching p{
+    padding-left:15px;
+    padding-right:15px;
+}
+#interactionpic{
+    width:300px;
+    height:200px;
+}
+#interaction{
+width:300px;
+height:600px;
+display: inline-block;
+background:linear-gradient(to right,#dee7e8, #d2cfd3 );
+vertical-align: top;
+margin-left: 15px;
+}
+#interaction p{
+    padding-left:15px;
+    padding-right:15px;
+}
+#companiespic{
+    width:300px;
+    height:200px;
+}
+#companies{
+width:300px;
+height:600px;
+display: inline-block;
+background:linear-gradient(to right,#dee7e8, #d2cfd3 );
+vertical-align: top;
+margin-left: 15px;
+}
+#companies p{
+    padding-left:15px;
+    padding-right:15px;
+}
+button{
+    border-radius: 10px;
+    background-color: #575475;
+    color: white;
+    font-weight: bold;
+    border: 3px solid black;
+    padding-right: 10px;
+    padding-left:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    left:150px;
+}
+#companies button{
+    position: relative;
+    top: 80px;
+}
+#storage button{
+    position: relative;
+    top: 83px;
+}
+#searching button{
+    position: relative;
+    top: 27px;
+}
+#interaction button{
+    position: relative;
+    top: 45px;
+}
